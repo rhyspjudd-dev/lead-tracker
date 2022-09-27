@@ -24,7 +24,7 @@ function renderLead() {
             ${myLeads[i]}
             </a>
         </li>
-    `
+        `
     }
     ul.innerHTML = listItems;
 }
